@@ -1,4 +1,4 @@
 itech-crm
 =========
 
-Customer Relationship Management - Itech Software Solutions
+Customer Relationship Management - Itech Software Sol
